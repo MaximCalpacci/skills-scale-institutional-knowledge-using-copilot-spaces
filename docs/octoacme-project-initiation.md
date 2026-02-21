@@ -28,10 +28,22 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - QA/Tester:
+  - UX/UI Designer (if applicable):
+  - Technical Lead/Architect (if applicable):
+  - Security Champion:
+  - Support/Customer Advocate (if applicable):
+  - Other roles:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Key team roles identified (PM, PdM, Dev Lead, QA, UX if needed, Security Champion)
+- [ ] Initial security and compliance considerations reviewed
+- [ ] UX research or design discovery planned (if applicable)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -41,3 +53,9 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- Security and compliance requirements identified
+- UX approach defined (if user-facing)
+
+---
+
+*Reference: Initiation process updated to include expanded roles per [Issue #4](https://github.com/MaximCalpacci/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)*

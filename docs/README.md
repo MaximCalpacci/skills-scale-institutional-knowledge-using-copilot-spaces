@@ -4,7 +4,7 @@ Welcome to the OctoAcme Project Management Docs. This README serves as the entry
 
 ## Project Management Processes Summary
 
-OctoAcme's project management processes are structured around clear roles (PM, PdM, Developers, Stakeholders), a lifecycle from Initiation → Planning → Execution → Release → Retrospective, consistent workflows for reporting, risk management, QA/testing, and continuous improvement. There are regular communication and alignment checkpoints, and key artifacts such as project one-pagers, backlogs, risk registers, and retrospectives.
+OctoAcme's project management processes are structured around clear roles (PM, PdM, Developers, QA/Testers, UX/UI Designers, Technical Leads, Security Champions, Support/Customer Advocates, and Stakeholders), a lifecycle from Initiation → Planning → Execution → Release → Retrospective, consistent workflows for reporting, risk management, QA/testing, and continuous improvement. There are regular communication and alignment checkpoints, and key artifacts such as project one-pagers, backlogs, risk registers, and retrospectives.
 
 ### Key Principles
 - **Customer-first**: Prioritize customer value and usability
@@ -34,3 +34,5 @@ OctoAcme's project management processes are structured around clear roles (PM, P
 ---
 
 Each document contains detailed guidance for a specific part of the project management lifecycle. For questions or proposals to improve these docs, open an issue using the process improvement template.
+
+*Reference: Process documentation expanded to include additional roles per [Issue #4](https://github.com/MaximCalpacci/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)*
